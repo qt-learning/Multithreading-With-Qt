@@ -31,7 +31,7 @@ Copyright (C) 2026 Qt Group.
 SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only
 ```
 
-This code repository contains code samples and other materials designed to help you learn and practice QML development. The materials provided are intended for educational purposes to help test the skills you've gained from completing the Intro to QML course.
+This code repository contains code samples and other materials designed to help you learn and practice Qt development. The materials provided are intended for educational purposes to assist you in understanding and applying Multithreading concepts and techniques in a Qt Widget application.
 
 ### Terms and Conditions
 
