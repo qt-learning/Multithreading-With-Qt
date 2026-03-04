@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (C) 2026 Qt Group. -->
+<!-- SPDX-License-Identifier: LicenseRef-Qt-Commercial OR GPL-3.0-only -->
+
 <ui version="4.0">
  <class>MainWindow</class>
  <widget class="QMainWindow" name="MainWindow">
